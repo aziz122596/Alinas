@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+Pillow
+numpy
+folium
+streamlit-folium
+matplotlib
+opencv-python
+pandas
+streamlit-option-menu
