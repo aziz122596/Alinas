@@ -1,6 +1,6 @@
 streamlit
 torch==2.6.0
-torchvision
+#torchvision
 Pillow
 numpy
 folium
