@@ -9,3 +9,4 @@ matplotlib
 opencv-python
 pandas
 streamlit-option-menu
+fpdf2
